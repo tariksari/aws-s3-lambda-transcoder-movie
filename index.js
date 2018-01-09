@@ -11,7 +11,7 @@ const eltr = new AWS.ElasticTranscoder({
     region: 'eu-west-1'
 });
 
-let s3 = new AWS.S3({
+const s3 = new AWS.S3({
     apiVersion: '2012-09-25'
 });
 
