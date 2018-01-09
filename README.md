@@ -1,7 +1,7 @@
 
 Basic lambda Example
 
-install Package
+Install npm packages
 
 1 : npm install axios<br>
 2 : npm install async<br>
