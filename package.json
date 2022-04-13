@@ -9,7 +9,7 @@
   "author": "info@tariksari.com",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "axios": "^0.18.1",
     "parse-multipart": "^1.0.4"
   }
